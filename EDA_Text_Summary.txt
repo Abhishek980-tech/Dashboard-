@@ -1,0 +1,4 @@
+Most common age group: 37 (18 respondents)
+Most common role: Student (83 respondents)
+Most popular app:  Daylio (246 users)
+Consent responses: {'Agree': 500}
