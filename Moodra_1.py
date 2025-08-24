@@ -9,7 +9,7 @@ from io import BytesIO
 # -------------------------
 # Load Data
 # -------------------------
-df = pd.read_csv("../Data Cleaning/wellbeing_survey_res_Cleaned.csv")
+df = pd.read_csv("wellbeing_survey_res_Cleaned.csv")
 
 # -------------------------
 # App Branding
@@ -216,4 +216,5 @@ st.markdown( """
     """,
     unsafe_allow_html=True
 )
+
 
